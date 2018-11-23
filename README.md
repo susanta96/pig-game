@@ -7,3 +7,5 @@ GAME RULES:
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's *the next player's turn
 - The player can choose to 'Hold', which means that his ROUND score gets added *to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game.
+- You Can add your Winner Score Any time on your Game to change 100 to 500 or 10.
+- Now there is a Two Dice . If Any Player get 1 in their Both Dices , It goes to Next Player.
